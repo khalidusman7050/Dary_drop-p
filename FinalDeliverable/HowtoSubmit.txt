@@ -1,0 +1,7 @@
+Note: To submit final deliverable, make sure you put the following 3 things in a folder:
+Complete Final Application, Final Report, Final Presentation
+
+And then Zip or Rar the folder, and also make sure that the file size is not greater than 70MB
+as usually projects' assignment page does not accept larget than 70MB files.
+
+Then upload that Zip or Rar file on VULMS, within due date on VULMS
